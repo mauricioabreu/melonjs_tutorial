@@ -7,7 +7,7 @@ Melonjs: http://melonjs.org/
 
 Melonjs tutorial: http://melonjs.github.io/tutorial/
 
-### Para executar
+## Para executar
 
     * Clone este repositório
     * Siga os passos apresentados neste [link oficial] (http://melonjs.github.io/tutorial/) para um maior entendimento dos arquivos
