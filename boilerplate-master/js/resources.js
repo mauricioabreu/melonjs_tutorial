@@ -34,6 +34,7 @@ game.resources = [
 	{name: "spinning_coin_gold", type: "image", src: "data/img/sprite/spinning_coin_gold.png"},
 	{name: "wheelie_right",       type:"image", src: "data/img/sprite/wheelie_right.png"},
 	{name: "32x32_font", type: "image", src: "data/img/font/32x32_font.png"},
+	{name: "title_screen", type: "image", src: "data/img/gui/title_screen.png"},
 	{name: "dst-inertexponent", type: "audio", src: "data/bgm/", channel: 1},
 	{name: "cling", type: "audio", src: "data/sfx/", channel: 2},
 	{name: "stomp", type: "audio", src: "data/sfx/", channel: 1},
